@@ -62,9 +62,9 @@ Create, edit, and delete blog posts.
 Explore the protected routes for authenticated users.
 
 ## Technologies Used
--Next.js
--MongoDB
--Auth JS
--Context API
--Next Auth
--Other dependencies (list any additional libraries or tools used)
+- Next.js
+- MongoDB
+- Auth JS
+- Context API
+- Next Auth
+- Other dependencies (list any additional libraries or tools used)
