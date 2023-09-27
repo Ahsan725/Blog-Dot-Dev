@@ -48,7 +48,7 @@ Set up environment variables for MongoDB, authentication, and other configuratio
 
 Start the development server:
 
-    ``bash
+    bash
     npm run dev
 
 
@@ -61,7 +61,6 @@ Create, edit, and delete blog posts.
 Explore the protected routes for authenticated users.
 
 ## Technologies Used
-
 Next.js
 MongoDB
 Auth JS
