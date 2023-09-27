@@ -33,7 +33,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Ahsan725/Blog-Dot-Dev>
 
 
 Install dependencies:
@@ -48,14 +48,14 @@ Set up environment variables for MongoDB, authentication, and other configuratio
 
 Start the development server:
 
+    ``bash
+    npm run dev
 
 
-npm run dev
-Usage
 
-Access the application by navigating to http://localhost:3000 in your web browser.
 
 ## Usage
+Access the application by navigating to http://localhost:3000 in your web browser.
 Sign up for a new account or log in using your Google account.
 Create, edit, and delete blog posts.
 Explore the protected routes for authenticated users.
