@@ -41,7 +41,7 @@ Install dependencies:
 
 
 
-    cd into the folder
+cd into the folder
     npm install
 
 
@@ -49,7 +49,6 @@ Set up environment variables for MongoDB, authentication, and other configuratio
 
 Start the development server:
 
-    bash
     npm run dev
 
 
