@@ -1,4 +1,5 @@
-# Next.js Blog Website
+# Blog Dot-Dev Website
+https://rb.gy/stp2y
 
 This is a full-stack blog website built using Next.js and MongoDB, featuring user authentication, CRUD functionality, and optimized data fetching.
 
@@ -40,8 +41,8 @@ Install dependencies:
 
 
 
-cd nextjs-blog-website
-npm install
+    cd into the folder
+    npm install
 
 
 Set up environment variables for MongoDB, authentication, and other configurations.
@@ -61,9 +62,9 @@ Create, edit, and delete blog posts.
 Explore the protected routes for authenticated users.
 
 ## Technologies Used
-Next.js
-MongoDB
-Auth JS
-Context API
-Next Auth
-Other dependencies (list any additional libraries or tools used)
+-Next.js
+-MongoDB
+-Auth JS
+-Context API
+-Next Auth
+-Other dependencies (list any additional libraries or tools used)
