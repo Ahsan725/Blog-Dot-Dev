@@ -42,6 +42,7 @@ Install dependencies:
 
 
 cd into the folder
+    
     npm install
 
 
