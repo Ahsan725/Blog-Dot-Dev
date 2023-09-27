@@ -1,5 +1,5 @@
 # Blog Dot-Dev Website
-https://rb.gy/stp2y
+Video Demo: https://rb.gy/stp2y
 
 This is a full-stack blog website built using Next.js and MongoDB, featuring user authentication, CRUD functionality, and optimized data fetching.
 
