@@ -1,0 +1,61 @@
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./src/app/dashboard/page.module.css ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+.page_container__jMKt5 {
+    display: flex;
+    gap: 100px;
+  }
+  
+  .page_posts__nIQgX {
+    flex: 1 1;
+  }
+  
+  .page_post__To0_v {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 0px;
+  }
+  
+  .page_imgContainer__DWOL_ {
+    width: 200px;
+    height: 100px;
+    position: Ū;
+  }
+  
+  .page_img__SauGB {
+    object-fit: cover;
+  }
+  
+  .page_delete___yDHY {
+    cursor: pointer;
+    color: red;
+  }
+  
+  .page_new__oXr4V {
+    flex: 1 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .page_input__NrIyi,
+  .page_textArea__a_vkI {
+    padding: 10px;
+    background-color: transparent;
+    border: 2px solid #bbb;
+    border-radius: 3px;
+    color: #bbb;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .page_button__lGp0v {
+    padding: 20px;
+    cursor: pointer;
+    background-color: #536DFE;
+    border: none;
+    border-radius: 5px;
+    color: #eee;
+    font-weight: bold;
+  }

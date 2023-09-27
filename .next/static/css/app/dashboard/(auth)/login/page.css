@@ -1,0 +1,73 @@
+/*!****************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[2].oneOf[8].use[3]!./src/app/dashboard/(auth)/login/page.module.css ***!
+  \****************************************************************************************************************************************************************************************************************************************************************************************/
+.page_container__iHLIK {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .page_title__dIlPn{
+    color: #bbb;
+  }
+  
+  .page_subtitle__OktW7{
+    font-size: 20px;
+    margin-bottom: 30px;
+    color: #bbb;
+  }
+  
+  .page_form__BqeIp {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .page_input__zuXmB {
+    padding: 20px;
+    background-color: transparent;
+    border: 2px solid #bbb;
+    border-radius: 5px;
+    outline: none;
+    color: #bbb;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .page_button__ShNXW {
+    width: 300px;
+    padding: 20px;
+    cursor: pointer;
+    background-color: #53c28b;
+    border: none;
+    border-radius: 5px;
+    color: #eee;
+    font-weight: bold;
+  }
+  
+  .page_button__ShNXW:hover {
+    background-color: #49b07d;
+  }
+  
+  .page_or__BKfVS {
+    color: #bbb;
+  }
+  
+  .page_link__pbnyY {
+    text-decoration: underline;
+    color: #7d7c7c;
+  }
+  
+  .page_link__pbnyY:hover {
+    color: rgb(61, 61, 61);
+  }
+  
+  .page_google__cUOz6 {
+    background-color: rgba(228, 97, 50, 0.72);
+  }
+  
+  .page_google__cUOz6:hover {
+    background-color: rgba(228, 97, 50, 0.803);
+  }
